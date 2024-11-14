@@ -35,7 +35,7 @@
 
 # FUNCIONALIDADES E DEMONSTRAÇÃO DA APLICAÇÃO
 
-
+https://github.com/user-attachments/assets/58abc932-398c-4a16-9f90-3e162e7d156d
 
 # TECNOLOGIAS UTILIZADAS
 
